@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://facebook.com/cebuglssio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cebuglssio" height="30" width="40" /></a>
 <a href="https://instagram.com/cebuglss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cebuglss" height="30" width="40" /></a>
 <a href="https://medium.com/@buglss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@buglss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uchvwmfl2ego7zk2s4rwroug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchvwmfl2ego7zk2s4rwroug" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@buglss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchvwmfl2ego7zk2s4rwroug" height="30" width="40" /></a>
 <a href="https://discord.gg/7829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7829" height="30" width="40" /></a>
 </p>
 
